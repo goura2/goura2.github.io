@@ -1,4 +1,6 @@
-# Final Group Project for IS445
+# Online CV Templete for IS445
+
+This is a resource for [IS445 as of Fall 2022](https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2022/).  It is a way to host an online CV with interactive visualizations.  See the course page for more materials.
 
 # How to use this repo
 
@@ -24,7 +26,9 @@ Some things you should be sure to check
 
 Edit info in:
  1. pages/about.md for your general introduction
- 1. timeline.yml to update the timeline 
+ 1. _data/programming-skills.yml to update your your programming skills list
+ 1. _data/other-skills.yml to update other skills
+ 1. timeline.yml to update the timeline of your CV
  
 ## Projects
 
